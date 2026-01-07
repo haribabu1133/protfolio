@@ -1,6 +1,20 @@
-# TODO List for Making Home Page Scrollable with All Sections Visible
+# TODO: Enhance Projects Page Layout with Colorful Borders
 
-- [x] Add a new home section at the top of index.html with hero content
-- [x] Update the navbar to link Home to #home
-- [ ] Ensure smooth scrolling is enabled in style.css
-- [ ] Test scrolling through all sections by opening index.html in a browser
+## Tasks to Complete:
+
+- [x] Update CSS for .project-card-1 and .project-card-2 in style.css to replace single left border with multi-sided colorful borders (e.g., green, red, cyan on different sides).
+- [x] Add hover effects to change border colors or add glow for better viewer engagement.
+- [x] Ensure the new borders complement the dark gradient background without overwhelming the design.
+- [x] Test the changes by running the site locally and verifying responsiveness.
+
+## Progress:
+
+- [x] Fix typo in index.html title (completed).
+
+# TODO: Enhance Skills Page Layout with Colorful Borders
+
+## Tasks to Complete:
+- [x] Update CSS for .skill-category in style.css to replace single left border with multi-sided colorful borders (e.g., green, red, cyan, orange).
+- [x] Add hover effects to change border colors and add glow for interactivity.
+- [x] Ensure the design matches the projects page and complements the dark theme.
+- [x] Test the changes by running the site locally and verifying responsiveness.
